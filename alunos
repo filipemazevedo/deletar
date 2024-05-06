@@ -1,5 +1,5 @@
 @Entity
 class Aluno{
- private int id;
  private String nome;
+ private float id;
 }
